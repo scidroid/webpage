@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: scidroid.live
-Token: 646238218c427c79cc3615a07a8f01b7daf76aa41fef184c23833887884f1cb2
