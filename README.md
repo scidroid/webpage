@@ -1,2 +1,2 @@
 # website
-This is my personal WebSite make on BootStrapStudio. UwU
+This is my personal WebSite. UwU
